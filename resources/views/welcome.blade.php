@@ -114,21 +114,7 @@
                 </div>
 
             </div>
-            <div class="col-lg-4 ">
-                <div class="panel panel-default">
-                    <div class="panel-heading">
-                        <h4>Remember Wyatt Dale Water Safety Awareness (In Development)</h4>
-                    </div>
-                    <div class="panel-body">
-                        <div class="thumbnail ">
-                            <a href="http://www.rememberingwyattdale.org"><img src="images/wyattdale.png"></a>
-                            <!-- <a href="http://www.discipleshipwebdesigns.com/projects/search"><img src="images/bible-search.png"></a> -->
-
-                        </div>
-                    </div>
-                </div>
-
-            </div>
+            
         </div>
         <!-- /.row -->
         <div class="row">
